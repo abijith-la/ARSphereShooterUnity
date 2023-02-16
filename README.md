@@ -2,6 +2,11 @@
 
 AR Sphere Shooter is an Android app made with Unity that lets users shoot spheres and see them interact with the real world through augmented reality.
 
+[![AR Sphere Shooter Demo Video 1]](https://user-images.githubusercontent.com/87352664/219503410-75fcc226-148a-4043-984a-77d1fd963a00.mp4
+)
+
+[![AR Sphere Shooter Demo Video 2]](https://user-images.githubusercontent.com/87352664/219505501-59797978-517f-4bb6-b043-1ddd4d4c0699.mp4)
+
 ## Features
 
 - Shoot spheres using your phone's touch screen
